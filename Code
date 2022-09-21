@@ -48,7 +48,6 @@ void loop()
  Serial.println(t);
  delay(1000);
  
- 
  //LED ON
  if(t>=100)
  {
