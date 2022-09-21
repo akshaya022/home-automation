@@ -1,5 +1,4 @@
-[3:42 pm, 21/09/2022] Anjali Clg: int 
-t=2;
+int t=2;
 int e=3;
 void setup()
 {
